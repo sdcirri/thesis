@@ -13,15 +13,15 @@ improve trading strategies and decision making.
 ## Thesis Structure
 The thesis is organized into several parts:
 1. Problem analysis and background
-  - Introduction to algorithmic trading
-  - Overview of machine learning techniques used
+    - Introduction to algorithmic trading
+    - Overview of machine learning techniques used
 2. System design
-  - Design of software systems capable of using machine learning
-  - Architecture of trading agents
+    - Design of software systems capable of using machine learning
+    - Architecture of trading agents
 3. Multi-asset trading
-  - Design of agents capable of managing multiple financial instruments
+    - Design of agents capable of managing multiple financial instruments
 4. Simulation and evaluation
-  - Backtesting on historical market data
-  - Analysis and comparison of the different approaches
+    - Backtesting on historical market data
+    - Analysis and comparison of the different approaches
 
 For the Python implementation see https://github.com/sdcirri/thesis_project.
