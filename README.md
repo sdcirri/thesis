@@ -1,4 +1,4 @@
-# Thesis
+# Thesis: Trading Agents design and simulation
 Thesis for Bachelor's Degree at Sapienza University of Rome
 
 For the Python implementation see https://github.com/sdcirri/thesis_project.
