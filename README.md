@@ -1,11 +1,27 @@
 # Thesis: Trading Agents design and simulation
 Thesis for Bachelor's Degree at Sapienza University of Rome
 
-For the Python implementation see https://github.com/sdcirri/thesis_project.
+## Overview
+This thesis explores the design of trading agents and their evaluation through
+simulated trading on historical market data.
+Trading agents are systems that automatically perform online trading. Designing
+such systems is challenging because financial markets are highly dynamic and
+noisy.
+In this work we investigate how machine learning techniques can be used to
+improve trading strategies and decision making.
 
-L'oggetto di questa tesi è la progettazione di **trading agents** e la loro validazione tramite simulazioni di trading su dati storici. I trading agents sono sistemi che si occupano di fare
-trading online, e in queste pagine analizzeremo le sfide che si presentano nel design di questi sistemi, che hanno l'arduo compito di _dare un senso_ al caos che è il mercato azionario.
-In particolare, studieremo come diverse tecniche di **_machine learning_**, semplici ma potenti, possano venire in nostro aiuto e fare una grande differenza.
-La tesi è suddivisa fondamentalmente in quattro parti: nei primi due capitoli analizzeremo il problema ed introdurremo le tecniche di machine learning utilizzate, nei tre capitoli successivi entreremo
-nel vivo del design di sistemi software in grado di sfruttare il machine learning per ottimizzare il trading online, il capitolo 6 è dedicato alla progettazione di trading agents capaci di gestire più
-titoli contemporaneamente, e nei due capitoli finali ci dedicheremo alla simulazione degli agents e analizzeremo i risultati formulando giudizi sui diversi approcci esplorati.
+## Thesis Structure
+The thesis is organized into several parts:
+1. Problem analysis and background
+  - Introduction to algorithmic trading
+  - Overview of machine learning techniques used
+2. System design
+  - Design of software systems capable of using machine learning
+  - Architecture of trading agents
+3. Multi-asset trading
+  - Design of agents capable of managing multiple financial instruments
+4. Simulation and evaluation
+  - Backtesting on historical market data
+  - Analysis and comparison of the different approaches
+
+For the Python implementation see https://github.com/sdcirri/thesis_project.
